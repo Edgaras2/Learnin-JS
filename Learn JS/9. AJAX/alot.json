@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name": "xxx",
+        "city": "alytus"
+    },
+    {
+        "id":2,
+        "name": "ddd",
+        "city": "alytus"
+    },
+    {
+        "id":3,
+        "name": "2222",
+        "city": "ksn"
+    }
+]
